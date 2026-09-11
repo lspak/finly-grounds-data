@@ -1,32 +1,32 @@
 {
   "format": 1,
-  "release": 1,
+  "release": 2,
   "updatedAt": "2026-09-11",
-  "note": "Prvé vydanie: 24 štrkovísk z registra, najväčšie a domáce vody okolo Bratislavy, Záhoria, Váhu a Košíc.",
+  "note": "Vydanie 2: 24 štrkovísk z registra; Feature nesie záznam checked (kto, kedy, ako porovnal geometriu s opisom SRZ) namiesto checkedByHuman.",
   "attribution": "© OpenStreetMap contributors, ODbL 1.0",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 20782,
-      "sha256": "ae9ceb122bdb419f8851b8a284a248fbc2b6ff37ddce8854498861af1107c80a",
+      "bytes": 20562,
+      "sha256": "6e4a371089c8675cfdb327e05a37e9991e7ee5acf1992f42bb1d2eb15296840e",
       "features": 10
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 20299,
-      "sha256": "479031f61b65fa95dbdd8ef16d366ad958e01e6b5a0f21200d5c6ad18843518d",
+      "bytes": 20123,
+      "sha256": "fcdff2118d0b28beb82522d6021b6f09995b695984faadae39e8ea169f75d66e",
       "features": 8
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 4562,
-      "sha256": "45b5578449b2998d12ad8f53cb2394dce10d3151b6986b2dad61ce4e4fd732e2",
+      "bytes": 4496,
+      "sha256": "f98cb64ef5b6d33087cdcc6be6d7de12f697d7a9d519e84892ac02cc7d4c8a03",
       "features": 3
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 15710,
-      "sha256": "e26c676736bde3999a71c8336ec2fd45caa385c42aa34ed9d547fa1aa9bd5ac8",
+      "bytes": 15644,
+      "sha256": "ff4cdcf5e272e4689ff0851416a8e80a341d580f2fe23d5507a0f0ce071f11ed",
       "features": 3
     }
   }
