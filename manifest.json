@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "release": 3,
+  "release": 4,
   "updatedAt": "2026-09-12",
-  "note": "Vydanie 3: 4 riečne revíry Bratislavskej oblasti zo SVP vedľa 24 štrkovísk; geometria tokov © Slovenský vodohospodársky podnik, š. p.",
+  "note": "Vydanie 4: 153 riečnych revírov Západoslovenskej, Stredoslovenskej a Východoslovenskej oblasti zo SVP vedľa 4 revírov Bratislavskej oblasti a 24 štrkovísk; geometria tokov © Slovenský vodohospodársky podnik, š. p.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
@@ -13,21 +13,21 @@
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 20123,
-      "sha256": "fcdff2118d0b28beb82522d6021b6f09995b695984faadae39e8ea169f75d66e",
-      "features": 8
+      "bytes": 151810,
+      "sha256": "074d8deb5dd9c9fcd6e923b8a094e282e661d0db91cd86563d3dcf103cc6608d",
+      "features": 25
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 4496,
-      "sha256": "f98cb64ef5b6d33087cdcc6be6d7de12f697d7a9d519e84892ac02cc7d4c8a03",
-      "features": 3
+      "bytes": 682106,
+      "sha256": "74741612582852065ba8d0be72c67d110ad67db9054e92ed3d9e29b39a803b51",
+      "features": 87
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 15644,
-      "sha256": "ff4cdcf5e272e4689ff0851416a8e80a341d580f2fe23d5507a0f0ce071f11ed",
-      "features": 3
+      "bytes": 458374,
+      "sha256": "222700d0aa3b82314c9711e1bf1ba12a57bd9f5634896d0f6fc0a30151aaee1a",
+      "features": 55
     }
   }
 }
