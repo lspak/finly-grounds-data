@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "release": 2,
-  "updatedAt": "2026-09-11",
-  "note": "Vydanie 2: 24 štrkovísk z registra; Feature nesie záznam checked (kto, kedy, ako porovnal geometriu s opisom SRZ) namiesto checkedByHuman.",
-  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "release": 3,
+  "updatedAt": "2026-09-12",
+  "note": "Vydanie 3: 4 riečne revíry Bratislavskej oblasti zo SVP vedľa 24 štrkovísk; geometria tokov © Slovenský vodohospodársky podnik, š. p.",
+  "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 20562,
-      "sha256": "6e4a371089c8675cfdb327e05a37e9991e7ee5acf1992f42bb1d2eb15296840e",
-      "features": 10
+      "bytes": 45381,
+      "sha256": "4f773656f768dc3716acd7733c695a96f3f438539ed191f7319b6cd79bc31f26",
+      "features": 14
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
