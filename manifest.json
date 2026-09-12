@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "release": 4,
+  "release": 5,
   "updatedAt": "2026-09-12",
-  "note": "Vydanie 4: 153 riečnych revírov Západoslovenskej, Stredoslovenskej a Východoslovenskej oblasti zo SVP vedľa 4 revírov Bratislavskej oblasti a 24 štrkovísk; geometria tokov © Slovenský vodohospodársky podnik, š. p.",
+  "note": "Vydanie 5: 331 riečnych revírov všetkých štyroch oblastí zo SVP vedľa 24 štrkovísk; 171 z nich má tok, prítok alebo koniec priradený ručne, lebo služba ich neurčila sama. Geometria tokov © Slovenský vodohospodársky podnik, š. p.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 45381,
-      "sha256": "4f773656f768dc3716acd7733c695a96f3f438539ed191f7319b6cd79bc31f26",
-      "features": 14
+      "bytes": 96642,
+      "sha256": "0070e8bc1836ad554428dd4bbd2d6b8657046f5a4cac2e529f159a8dbb494c05",
+      "features": 21
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 151810,
-      "sha256": "074d8deb5dd9c9fcd6e923b8a094e282e661d0db91cd86563d3dcf103cc6608d",
-      "features": 25
+      "bytes": 417178,
+      "sha256": "381c3ee1f9f896e1ad6ca3e6d755db334c2f2275a71fac4a883837a74ac26e8d",
+      "features": 58
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 682106,
-      "sha256": "74741612582852065ba8d0be72c67d110ad67db9054e92ed3d9e29b39a803b51",
-      "features": 87
+      "bytes": 1491633,
+      "sha256": "c9e6eb031b610edfc1e029a6dd5b7627a326ec38d1b817af6565410282d6aaaa",
+      "features": 173
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 458374,
-      "sha256": "222700d0aa3b82314c9711e1bf1ba12a57bd9f5634896d0f6fc0a30151aaee1a",
-      "features": 55
+      "bytes": 870320,
+      "sha256": "536c23ea8543fc81f2e63a3be7e56c68f6ff916094625eec6d52574819ff8b52",
+      "features": 103
     }
   }
 }
