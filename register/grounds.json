@@ -11089,11 +11089,6 @@
    "organisation": "MsO Trenčín",
    "category": "specialTrout",
    "waterCharacter": "trout",
-   "point": {
-    "latitude": 48.783951,
-    "longitude": 18.106449,
-    "pointSource": "svp"
-   },
    "description_sk": "Potok Svinica od železničného mosta Svinné - Ruskovce po pramene.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-2750-4-1",
    "verifiedAt": "2026-09-11"
