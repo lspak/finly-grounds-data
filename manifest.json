@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "release": 6,
-  "updatedAt": "2026-09-13",
-  "note": "Vydanie 6: 339 vodných plôch z OpenStreetMap vedľa 331 riečnych úsekov; obec z opisu revíru a hektáre proti ploche polygónu rozhodli, ktorá voda to je.",
+  "release": 7,
+  "updatedAt": "2026-09-15",
+  "note": "Vydanie 7: 13 riečnych úsekov navyše, ktoré pipeline postavila až po normalizácii skloňovaného mena proti slovníku a po ohraničení hľadania na obdĺžnik toku.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
@@ -13,21 +13,21 @@
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 658755,
-      "sha256": "c0836ca37897b2bda9e4e167e8d340aa66fb10cb102a65f08d4a1cb0554f99bf",
-      "features": 189
+      "bytes": 690159,
+      "sha256": "3f10b3566f01f4cba80090b2322c33449abd684a16e67df0851f11b32dbfa77c",
+      "features": 193
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 1649576,
-      "sha256": "b10fdfe5d66db27b2e88d4a5bdd807311eef00472630fa62b49cec621673a8f4",
-      "features": 256
+      "bytes": 1728435,
+      "sha256": "adcd756bfc632ed354be6a9d4abfd3afe671d569792fbb10f0fcf2dbe0738fe7",
+      "features": 263
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 992769,
-      "sha256": "549c8c06450e50a741bd6c5a78d6eb6121a47f4fb67defdb403a0d33e696a52f",
-      "features": 164
+      "bytes": 1003142,
+      "sha256": "e5405f398514b41e1d70f5107848a1949897ec9067674548aefa1012147abe70",
+      "features": 166
     }
   }
 }

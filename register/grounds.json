@@ -284,6 +284,7 @@
    "organisation": "MsO Bratislava 4",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.208097,
     "longitude": 16.966033,
@@ -306,6 +307,7 @@
    "organisation": "MsO Záhorie",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.32661,
     "longitude": 16.90778,
@@ -328,6 +330,7 @@
    "organisation": "MO Gajary",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.45663,
     "longitude": 16.862457,
@@ -350,6 +353,7 @@
    "organisation": "MO Veľké a Malé Leváre",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.520524,
     "longitude": 16.930733,
@@ -2811,6 +2815,7 @@
    "organisation": "SRZ RADA Žilina",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Dunaj od ústia Ipľa (rkm 1708) po ústie Vážskeho Dunaja (rkm 1766) v Komárne.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-0480-1-1",
    "verifiedAt": "2026-09-10"
@@ -2828,6 +2833,7 @@
    "organisation": "SRZ RADA Žilina",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Dunaj od ústia Vážskeho Dunaja v Komárne (rkm 1766 po rkm 1810) pri obci Sap (revír - hraničná voda) a Medveďovské rameno.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-0490-1-1",
    "verifiedAt": "2026-09-10"
@@ -2862,7 +2868,8 @@
    "organisation": "SRZ RADA Žilina",
    "category": "unionCarp",
    "waterCharacter": "carp",
-   "description_sk": "Staré koryto Dunaja od rkm 1810 pri obci Sap po Čunovskú hať inundácii (20 vypúšťacích polí), po vodnú elektráreň Čunovo, po stredovú hať, po plavebnú komoru, po vyústenie areálu vodných športov v Čunove a po dolnú hranicu ihlanového sklzu hate na obtoku.",
+   "borderWater": "part",
+   "description_sk": "Staré koryto Dunaja od rkm 1810 pri obci Sap po Čunovskú hať inundácii (20 vypúšťacích polí), po vodnú elektráreň Čunovo, po stredovú hať, po plavebnú komoru, po vyústenie areálu vodných športov v Čunove a po dolnú hranicu ihlanového sklzu hate na obtoku. Staré koryto Dunaja od rkm 1810 po hraničný kameň v rkm 1850,5: ľavá strana je hraničná voda; Mošonský Dunaj od hranice s Maďarskom po malú vodnú elektráreň v Čunove nie je hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-0510-1-1",
    "verifiedAt": "2026-09-10"
   },
@@ -3149,6 +3156,7 @@
    "organisation": "MO Štúrovo",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 47.879828,
     "longitude": 18.764164,
@@ -3171,6 +3179,7 @@
    "organisation": "MO Želiezovce",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.005561,
     "longitude": 18.820158,
@@ -3193,6 +3202,7 @@
    "organisation": "MO Šahy",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.073399,
     "longitude": 18.940164,
@@ -3500,6 +3510,7 @@
    "organisation": "MO Sekule - Moravský Sv. Ján",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Moravy od rkm 59 po 3-hraničný kameň (ústie Dyje).",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1330-1-1",
    "verifiedAt": "2026-09-10"
@@ -3517,6 +3528,7 @@
    "organisation": "MO Kúty",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Morava od 3-hraničného kameňa (ústie Dyje) po rkm 78. Myjava od ústia po stavidlo 5728 pri obci Kuklov, staré koryto Myjavy pri Kútoch, odstavené ramená na ľavom brehu Moravy.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1340-1-1",
    "verifiedAt": "2026-09-10"
@@ -3534,6 +3546,7 @@
    "organisation": "MO Holíč",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Vodný tok od premostenia plynovodu pod Adamovom po hydrocentrálu pri Hodoníne. Odstavené ramená Adamovské (1 ha), Roztrhlé rameno (2 ha) a Cunínsky potok od ústia po pramene.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1350-1-1",
    "verifiedAt": "2026-09-10"
@@ -3551,6 +3564,7 @@
    "organisation": "MO Brodské",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie Moravy od okraja Kútskeho lesa (rkm 78,00) po premostenie plynovodu pod Adamovom.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1351-1-1",
    "verifiedAt": "2026-09-10"
@@ -3568,6 +3582,7 @@
    "organisation": "MO Skalica",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Moravy od hydrocentrály v Hodoníne po ústie Sudoměřického potoka (vrátane Baťovho kanála/Radejovka) a vodná plocha ramena Ivánek.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1360-1-1",
    "verifiedAt": "2026-09-10"
@@ -3794,6 +3809,11 @@
    "organisation": "MsO SRZ Partizánske",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.636968,
+    "longitude": 18.367374,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Nitrice od hate vo Veľkých Bieliciach po ústie Krštenianskeho potoka.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1551-1-1",
    "verifiedAt": "2026-09-10"
@@ -10410,6 +10430,11 @@
    "organisation": "MO Bánovce nad Bebravou",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 48.823398,
+    "longitude": 18.232716,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie Bebravy od ústia potoka Dubnička v Bánovciach nad Bebravou po začiatok obce Čierna Lehota, Trebichavský potok od ústia do Bebravy po začiatok obce Trebichava s prítokmi, Machnáč od ústia do rieky Bebravy po ústie Petrolehotského potoka nad obcou Motešice a potok Jelešnica.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-0110-4-1",
    "verifiedAt": "2026-09-11"
@@ -10908,6 +10933,11 @@
    "organisation": "MsO Partizánske",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 48.651361,
+    "longitude": 18.37711,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Nitrica od ústia Krštenianskeho potoka po hať elektrárne v Skačanoch.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1552-4-1",
    "verifiedAt": "2026-09-11"
@@ -11059,6 +11089,11 @@
    "organisation": "MsO Trenčín",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 48.783951,
+    "longitude": 18.106449,
+    "pointSource": "svp"
+   },
    "description_sk": "Potok Svinica od železničného mosta Svinné - Ruskovce po pramene.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-2750-4-1",
    "verifiedAt": "2026-09-11"
@@ -11457,6 +11492,7 @@
    "organisation": "MO Veľký Krtíš",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.088571,
     "longitude": 19.38924,
@@ -11479,6 +11515,7 @@
    "organisation": "MsO Lučenec",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "point": {
     "latitude": 48.224972,
     "longitude": 19.589977,
@@ -11798,7 +11835,8 @@
    "category": "unionCarp",
    "waterCharacter": "carp",
    "catchAndRelease": true,
-   "description_sk": "Čiastkové povodie rieky Slaná od hraničného kameňa na slovenskej strane štátnej hranice SR - MR po cestný most v obci Bretka vrátane prítokov a Koňský potok od ústia do rieky Slaná po cestný most v obci Štrkovec.",
+   "borderWater": "part",
+   "description_sk": "Čiastkové povodie rieky Slaná od hraničného kameňa na slovenskej strane štátnej hranice SR - MR po cestný most v obci Bretka vrátane prítokov a Koňský potok od ústia do rieky Slaná po cestný most v obci Štrkovec. Úsek toku od hraničného kameňa na slovenskej strane (rkm 0,0) po rkm 0,61 (štátna hranica SR - MR) je hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-3730-1-4",
    "verifiedAt": "2026-09-10"
   },
@@ -11937,6 +11975,11 @@
    "organisation": "MO Dubnica nad Váhom",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.994314,
+    "longitude": 18.204655,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Váh od diaľničného privádzača Nemšová - Dubnica n/V po hydrocentrálu v Ladcoch.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-4570-1-1",
    "verifiedAt": "2026-09-10"
@@ -12520,6 +12563,11 @@
    "organisation": "MO Brezno",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "point": {
+    "latitude": 48.821284,
+    "longitude": 19.698276,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Hron od cestného mosta na autobusovú a železničnú stanicu v Brezne po Zelenský most nad obcou Beňuš, vrátane prítokov Ježová, Zúbra, Drábsko, Brezniansky a Kabátová.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 3-1131-6-1",
    "verifiedAt": "2026-09-10"
@@ -12572,6 +12620,11 @@
    "organisation": "RADA SRZ Žilina",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "point": {
+    "latitude": 49.257088,
+    "longitude": 19.35868,
+    "pointSource": "svp"
+   },
    "catchAndRelease": true,
    "description_sk": "Čiastkové povodie rieky Orava od ústia Raciborského potoka pri obci Oravský Podzámok po lavičku pre peších v Dolnej Lehote a Raciborský potok od ústia po pramene.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 3-2720-6-4",
@@ -12590,6 +12643,11 @@
    "organisation": "RADA SRZ Žilina",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "point": {
+    "latitude": 49.258013,
+    "longitude": 19.427456,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Orava od lavičky pre peších v Dolnej Lehote po cestný most v obci Krivá pri futbalovom štadióne.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 3-2721-6-1",
    "verifiedAt": "2026-09-10"
@@ -12712,6 +12770,11 @@
    "organisation": "MO Turčianske Teplice",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "point": {
+    "latitude": 48.878994,
+    "longitude": 18.788548,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Turiec od cestného mosta v Moškovci po most Sklené - Rovná Hora a prítoky od sútoku po pramene, vrátane potokov Bystrička (Ondrašovský potok), Mútnik, Čepčinský, Ivančiansky, Hlboký, Hájsky, Požežský, Lúčna, Besná voda, Piešť, Sokol, Laclavský potok a Polerieka od ústia do Turca pri obci Moškovec po pramene.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 3-4480-6-1",
    "verifiedAt": "2026-09-10"
@@ -16987,6 +17050,11 @@
    "organisation": "MsO Lučenec",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 48.47616,
+    "longitude": 19.530858,
+    "pointSource": "svp"
+   },
    "description_sk": "Krivánsky potok od stavidla v obci Tomášovce po pramene vrátane prítokov.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-1740-4-1",
    "verifiedAt": "2026-09-11"
@@ -18813,6 +18881,11 @@
    "organisation": "MO Bytča",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 49.273904,
+    "longitude": 18.446618,
+    "pointSource": "svp"
+   },
    "description_sk": "Potok Štiavnik (Štiavnický potok) od cestného mosta v obci Hvozdnica po pramene, vrátane prítokov.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-4020-4-1",
    "verifiedAt": "2026-09-11"
@@ -19659,6 +19732,7 @@
    "organisation": "MO Kráľovský Chlmec",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie Bereckého prívodného kanála od jeho ústia do Karcse po ústie melioračného kanála Malý Kamenec - hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-0071-1-1",
    "verifiedAt": "2026-09-10"
@@ -19676,6 +19750,7 @@
    "organisation": "MO Streda nad Bodrogom",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Bodrog od štátnej hranice SR - Maďarsko (rkm 0,0) po sútok Bodrogu s Roňavou (rkm 1,1), časť odstaveného ramena Bodrogu pri obci Klin nad Bodrogom „Patova“ a čiastkové povodie Bereckého prívodného kanála od štátnej hranice SR - MR pri obci Streda nad Bodrogom po ústie odpadového kanála Malý Kamenec - hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-0140-1-1",
    "verifiedAt": "2026-09-10"
@@ -19844,6 +19919,7 @@
    "organisation": "MsO Košice",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Hornád od štátnej hranice SR - Maďarsko pri obci Milhosť (Tornyosnemeti) po obec Trstené pri Hornáde v rkm 107,955 až 118,4 - hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-0630-1-1",
    "verifiedAt": "2026-09-10"
@@ -20653,7 +20729,8 @@
    "organisation": "MO Čierna nad Tisou",
    "category": "unionCarp",
    "waterCharacter": "carp",
-   "description_sk": "Čiastkové povodie rieky Tisa od štátnej hranice SR - Maďarsko po štátne hranice SR - Ukrajina a odstavené ramená v povodí revíru.",
+   "borderWater": "part",
+   "description_sk": "Čiastkové povodie rieky Tisa od štátnej hranice SR - Maďarsko po štátne hranice SR - Ukrajina a odstavené ramená v povodí revíru. Hlavný tok rieky Tisa v tomto úseku je hraničná voda.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-2800-1-1",
    "verifiedAt": "2026-09-10"
   },
@@ -20961,6 +21038,7 @@
    "organisation": "MO Kráľovský Chlmec",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "borderWater": "whole",
    "description_sk": "Vodná plocha odstaveného ramena (25 ha) pri obci Veľký Kamenec a Strážne.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-3880-1-1",
    "verifiedAt": "2026-09-10"
@@ -21113,6 +21191,11 @@
    "organisation": "MO Vranov nad Topľou",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "point": {
+    "latitude": 48.959356,
+    "longitude": 21.712135,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Ondava od ústia Oľky po priehradné teleso vodnej vyrovnávacej nádrže Domaša v Slovenskej Kajni.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 4-1670-5-1",
    "verifiedAt": "2026-09-10"
@@ -21260,6 +21343,7 @@
    "organisation": "MO Stará Ľubovňa",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Poprad od štátnej hranice SR - Poľsko pri obci Mníšek nad Popradom po štátnu hranicu SR - Poľsko pri obci Legnava.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 4-1940-6-1",
    "verifiedAt": "2026-09-10"
@@ -21277,6 +21361,7 @@
    "organisation": "MO Orlov",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "borderWater": "whole",
    "description_sk": "Čiastkové povodie rieky Poprad od ústia Smrečanského potoka (zadný Kurčín) po ústie Chotárneho potoka pod obcou Ruská Voľa nad Popradom.",
    "source": "Lipňový zväzový poriadok SRZ 2026, revír 4-1950-6-1",
    "verifiedAt": "2026-09-10"
@@ -21294,6 +21379,7 @@
    "organisation": "MO Spišská Stará Ves",
    "category": "unionGrayling",
    "waterCharacter": "grayling",
+   "borderWater": "whole",
    "point": {
     "latitude": 49.400626,
     "longitude": 20.381336,
@@ -25149,6 +25235,11 @@
    "organisation": "MsO Rožňava",
    "category": "specialTrout",
    "waterCharacter": "trout",
+   "point": {
+    "latitude": 48.773009,
+    "longitude": 20.408883,
+    "pointSource": "svp"
+   },
    "description_sk": "Čiastkové povodie rieky Slaná od Vyústenia potrubia sideritovej Nižnoslanskej bane po ústie Dobšinského potoka a Dobšinský potok po teleso vodnej nádrže Dobšiná.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-2281-4-1",
    "verifiedAt": "2026-09-11"
