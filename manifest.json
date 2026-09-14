@@ -2,7 +2,7 @@
   "format": 1,
   "release": 7,
   "updatedAt": "2026-09-15",
-  "note": "Vydanie 7: 13 riečnych úsekov navyše, ktoré pipeline postavila až po normalizácii skloňovaného mena proti slovníku a po ohraničení hľadania na obdĺžnik toku.",
+  "note": "Vydanie 7: 12 riečnych úsekov navyše, ktoré pipeline postavila až po normalizácii skloňovaného mena proti slovníku a po ohraničení hľadania na obdĺžnik toku.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
@@ -13,14 +13,14 @@
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 690159,
-      "sha256": "3f10b3566f01f4cba80090b2322c33449abd684a16e67df0851f11b32dbfa77c",
-      "features": 193
+      "bytes": 683261,
+      "sha256": "7c74ba702af6bbac6197abf73525f75e70c1fb3ea0be8a2a553f370ed04bf201",
+      "features": 192
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 1728435,
-      "sha256": "adcd756bfc632ed354be6a9d4abfd3afe671d569792fbb10f0fcf2dbe0738fe7",
+      "bytes": 1728429,
+      "sha256": "403471111081a94bd8dde36156fafd4a7cd556115ed5336d25db09fd0e9fef9f",
       "features": 263
     },
     "region-4": {
