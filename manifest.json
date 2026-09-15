@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "release": 9,
+  "release": 10,
   "updatedAt": "2026-09-15",
-  "note": "Vydanie 9: oprava vydania 8 po review kola kontroly. Jeden revír stiahnutý (4-2600-1-1, vymeraná plocha s menom revíru bola zamietnutá na výmere), 18 záznamov prepísaných tak, aby vody, ktoré vypisujú, boli vody polomeru, ktorý pomenúvajú, a štyri vety kontroly opravené proti registru.",
+  "note": "Vydanie 10: oprava zlej hranice a prvé dve hranice, ktoré určil vlastník na mape. Štrkovisko Bendö bolo publikované na vode pri Gabčíkove, hoci poriadok ho vetou 'Vchod ku štrkovisku je medzi Boheľovom a Patašom' posiela desať kilometrov inam; tú vetu prepis registra stratil a teraz ju nesie. Voda pri Gabčíkove je Štrkovisko Böky.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
@@ -13,9 +13,9 @@
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 707085,
-      "sha256": "4d6fd95f75117c887efa222a79fa18070f4e6c8a75c79f1c8d8afc191212418a",
-      "features": 200
+      "bytes": 708653,
+      "sha256": "21bc85a777a793dc088805a45899de1ca4d659bb4b1bfb3c0fef2d578add40d4",
+      "features": 201
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
