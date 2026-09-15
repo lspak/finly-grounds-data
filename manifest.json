@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "release": 8,
+  "release": 9,
   "updatedAt": "2026-09-15",
-  "note": "Vydanie 8: 19 vodných plôch navyše, ktoré pipeline postavila z vymeranej plochy ZBGIS a z mien vodných plôch SVP (RFC docs/plans/water-body-area-evidence.md). Obe služby sú dôkaz o tom, ktorý prvok OpenStreetMap je revír; publikovaná geometria je ďalej OSM pod ODbL a riečne úseky SVP s povolením.",
+  "note": "Vydanie 9: oprava vydania 8 po review kola kontroly. Jeden revír stiahnutý (4-2600-1-1, vymeraná plocha s menom revíru bola zamietnutá na výmere), 18 záznamov prepísaných tak, aby vody, ktoré vypisujú, boli vody polomeru, ktorý pomenúvajú, a štyri vety kontroly opravené proti registru.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 180308,
-      "sha256": "f79ab588274d5511e1eb75286ff560b9408c1438c7b0af2fd5154d06083fb03e",
+      "bytes": 180222,
+      "sha256": "a486b890e9928efd8bc250f738344e579d4deff69535e5af4e1fc66a0d549292",
       "features": 64
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 706568,
-      "sha256": "bc919eb788e071d710a7a8f2a094fdba28e373ce820b04e3140f8eb2afb605f8",
+      "bytes": 707085,
+      "sha256": "4d6fd95f75117c887efa222a79fa18070f4e6c8a75c79f1c8d8afc191212418a",
       "features": 200
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 1735715,
-      "sha256": "67386c2ec50ee8f8d25b6eccee96baac667892732dba410c0ca82f541bb7e4df",
+      "bytes": 1735717,
+      "sha256": "38ce271881d42e3c1eb8924ed677653975cb7e43e4c162f465af8e3b7a71e233",
       "features": 266
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 1016186,
-      "sha256": "9bbfa79a80b88d518164a56ac9c3ff603c0bf49cd5224f15468ed569209a2b85",
-      "features": 171
+      "bytes": 1012085,
+      "sha256": "861082c30db5a22afff6c714f5af1d8f1e0e2f5bc059ca6308b1a97aecf601de",
+      "features": 170
     }
   }
 }
