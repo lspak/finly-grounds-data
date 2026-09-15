@@ -1442,6 +1442,11 @@
    "organisation": "MsO Senec",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.203892,
+    "longitude": 17.324546,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha štrkoviska (8 ha) pri obci Bernolákovo.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 1-0870-1-1",
    "verifiedAt": "2026-09-11"
@@ -2153,6 +2158,11 @@
    "organisation": "MsO Pezinok",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.360766,
+    "longitude": 17.307966,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha nádrže (1 ha) pri meste Modra.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 1-1370-1-1",
    "verifiedAt": "2026-09-11"
@@ -2170,6 +2180,11 @@
    "organisation": "MsO Pezinok",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.332433,
+    "longitude": 17.332144,
+    "pointSource": "osm"
+   },
    "description_sk": "Bočná vodná nádrž (0,75 ha) pri meste Modra.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 1-1371-1-1",
    "verifiedAt": "2026-09-11"
@@ -4350,6 +4365,11 @@
    "organisation": "MO Veľký Meder",
    "category": "unionCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 47.910095,
+    "longitude": 17.796913,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha štrkoviska (27 ha) pri obci Okoč.",
    "source": "Kaprový zväzový poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-3790-1-1",
    "verifiedAt": "2026-09-10"
@@ -5909,6 +5929,11 @@
    "organisation": "MO Brodské",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.69106,
+    "longitude": 17.002569,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha odstaveného ramena (7 ha) rieky Moravy pri obci Brodské.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1580-1-1",
    "verifiedAt": "2026-09-11"
@@ -5926,6 +5951,11 @@
    "organisation": "MsO Sereď",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.311187,
+    "longitude": 17.738009,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha odstaveného ramena (7 ha) rieky Váh pri obci Horný Čepeň.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1590-1-1",
    "verifiedAt": "2026-09-11"
@@ -6135,6 +6165,11 @@
    "organisation": "MsO Nitra",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.388212,
+    "longitude": 18.078596,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha odstaveného ramena (2 ha) rieky Nitry pri obci Ľudovítová.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1740-1-1",
    "verifiedAt": "2026-09-11"
@@ -6390,6 +6425,11 @@
    "organisation": "MO Brodské",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.698974,
+    "longitude": 17.004732,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha odstaveného ramena (8 ha) rieky Morava pri obci Brodské.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-1870-1-1",
    "verifiedAt": "2026-09-11"
@@ -6670,6 +6710,11 @@
    "organisation": "MO Topoľníky",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 47.958434,
+    "longitude": 17.754824,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha rašeliniska (4 ha) pri obci Topoľníky.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-2210-1-1",
    "verifiedAt": "2026-09-11"
@@ -7450,6 +7495,11 @@
    "organisation": "MsO Trenčín",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.829156,
+    "longitude": 17.950402,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha nádrže (13 ha) pozdĺž cesty medzi obcami Trenčianske Stankovce a Krivosúd - Bodovka.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-2980-1-1",
    "verifiedAt": "2026-09-11"
@@ -8269,6 +8319,11 @@
    "organisation": "MsO Hlohovec",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.439606,
+    "longitude": 17.751812,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha štrkoviska (10 ha) pri obci Leopoldov.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 2-3580-1-1",
    "verifiedAt": "2026-09-11"
@@ -13317,6 +13372,11 @@
    "organisation": "MsO Martin",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 49.113785,
+    "longitude": 18.974112,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha (7,27 ha) odstaveného ramena Váhu pri obci Turčianske Kľačany.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-2590-1-1",
    "verifiedAt": "2026-09-11"
@@ -14967,6 +15027,11 @@
    "organisation": "MsO Banská Bystrica",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.743389,
+    "longitude": 19.235819,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha (3,7 ha) odstaveného ramena Hrona pri obci Šalková.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-5570-1-1",
    "verifiedAt": "2026-09-11"
@@ -15379,6 +15444,11 @@
    "organisation": "MO Turzovka",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 49.412123,
+    "longitude": 18.600631,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha bočnej vodnej nádrže (1 ha) pri meste Turzovka.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 3-5900-1-1",
    "verifiedAt": "2026-09-11"
@@ -22032,6 +22102,11 @@
    "organisation": "MO Svit",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 49.071215,
+    "longitude": 20.159193,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha štrkoviska (9,78 ha) pri obci Batizovce.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-2600-1-1",
    "verifiedAt": "2026-09-11"
@@ -22269,6 +22344,11 @@
    "organisation": "MO Veľké Kapušany",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.625926,
+    "longitude": 22.109999,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha odstaveného ramena (2 ha) rieky Uh pri obci Vysoká nad Uhom.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-3062-1-1",
    "verifiedAt": "2026-09-11"
@@ -22714,6 +22794,11 @@
    "organisation": "MO Krompachy",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 48.922697,
+    "longitude": 20.868931,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha bočnej vodnej nádrže (4,6 ha) pri meste Krompachy.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-3520-1-1",
    "verifiedAt": "2026-09-11"
@@ -23019,6 +23104,11 @@
    "organisation": "MO Hanušovce nad Topľou",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 49.029661,
+    "longitude": 21.558848,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha nádrže (1 ha) pri obci Remeniny.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-3730-1-1",
    "verifiedAt": "2026-09-11"
@@ -23141,6 +23231,11 @@
    "organisation": "MO Stropkov",
    "category": "specialCarp",
    "waterCharacter": "carp",
+   "point": {
+    "latitude": 49.21593,
+    "longitude": 21.654344,
+    "pointSource": "osm"
+   },
    "description_sk": "Vodná plocha bočnej vodnej nádrže (6 ha) v meste Stropkov.",
    "source": "Zvláštny poriadok SRZ 2026 (akt. 25. 6. 2026), revír 4-3840-1-1",
    "verifiedAt": "2026-09-11"

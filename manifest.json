@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "release": 7,
+  "release": 8,
   "updatedAt": "2026-09-15",
-  "note": "Vydanie 7: 12 riečnych úsekov navyše, ktoré pipeline postavila až po normalizácii skloňovaného mena proti slovníku a po ohraničení hľadania na obdĺžnik toku.",
+  "note": "Vydanie 8: 19 vodných plôch navyše, ktoré pipeline postavila z vymeranej plochy ZBGIS a z mien vodných plôch SVP (RFC docs/plans/water-body-area-evidence.md). Obe služby sú dôkaz o tom, ktorý prvok OpenStreetMap je revír; publikovaná geometria je ďalej OSM pod ODbL a riečne úseky SVP s povolením.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 172838,
-      "sha256": "6d33b72df33842ab29f578bbaa95e46d8905bec3fadfe38e6de1053ddce1075e",
-      "features": 61
+      "bytes": 180298,
+      "sha256": "8b5d118002db736a4b5645c19b90f3f4f3a023d8458dae4f8725cc6c2bfb93ac",
+      "features": 64
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 683261,
-      "sha256": "7c74ba702af6bbac6197abf73525f75e70c1fb3ea0be8a2a553f370ed04bf201",
-      "features": 192
+      "bytes": 706568,
+      "sha256": "bc919eb788e071d710a7a8f2a094fdba28e373ce820b04e3140f8eb2afb605f8",
+      "features": 200
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 1728429,
-      "sha256": "403471111081a94bd8dde36156fafd4a7cd556115ed5336d25db09fd0e9fef9f",
-      "features": 263
+      "bytes": 1735715,
+      "sha256": "67386c2ec50ee8f8d25b6eccee96baac667892732dba410c0ca82f541bb7e4df",
+      "features": 266
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 1003142,
-      "sha256": "e5405f398514b41e1d70f5107848a1949897ec9067674548aefa1012147abe70",
-      "features": 166
+      "bytes": 1016186,
+      "sha256": "9bbfa79a80b88d518164a56ac9c3ff603c0bf49cd5224f15468ed569209a2b85",
+      "features": 171
     }
   }
 }
