@@ -7,8 +7,8 @@
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 180298,
-      "sha256": "8b5d118002db736a4b5645c19b90f3f4f3a023d8458dae4f8725cc6c2bfb93ac",
+      "bytes": 180308,
+      "sha256": "f79ab588274d5511e1eb75286ff560b9408c1438c7b0af2fd5154d06083fb03e",
       "features": 64
     },
     "region-2": {
