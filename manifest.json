@@ -1,32 +1,32 @@
 {
   "format": 1,
-  "release": 10,
+  "release": 11,
   "updatedAt": "2026-09-15",
-  "note": "Vydanie 10: oprava zlej hranice a prvé dve hranice, ktoré určil vlastník na mape. Štrkovisko Bendö bolo publikované na vode pri Gabčíkove, hoci poriadok ho vetou 'Vchod ku štrkovisku je medzi Boheľovom a Patašom' posiela desať kilometrov inam; tú vetu prepis registra stratil a teraz ju nesie. Voda pri Gabčíkove je Štrkovisko Böky.",
+  "note": "Vydanie 11: 55 koncov riečnych revírov na 46 revíroch je odteraz rezaných na stavbe, ktorú veta poriadku menuje (most, hať, mlyn), a nie tam, kde rieka prechádza najbližšie k stredu obce. Hornád č. 3 začína 3 m od osi na železničnom moste pri Margecanoch a končí 11 m od nej na ceste 547 v Kolinovciach namiesto 700 a 60 metrov od stredu dvoch obcí. Každý prvok teraz nesie aj presnosť oboch koncov.",
   "attribution": "osm: © OpenStreetMap contributors, ODbL 1.0 · svp: © Slovenský vodohospodársky podnik, š. p.",
   "files": {
     "region-1": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-1.geojson",
-      "bytes": 180222,
-      "sha256": "a486b890e9928efd8bc250f738344e579d4deff69535e5af4e1fc66a0d549292",
+      "bytes": 181195,
+      "sha256": "0acf076a98e3eb0a9b811ea68333530a4ad8e70a114386b8e63b989ba347c4eb",
       "features": 64
     },
     "region-2": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-2.geojson",
-      "bytes": 708653,
-      "sha256": "21bc85a777a793dc088805a45899de1ca4d659bb4b1bfb3c0fef2d578add40d4",
+      "bytes": 716254,
+      "sha256": "2e680d8722333b5d858a05b7c90e468eac7315262b276857621aacf0005bd230",
       "features": 201
     },
     "region-3": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-3.geojson",
-      "bytes": 1735717,
-      "sha256": "38ce271881d42e3c1eb8924ed677653975cb7e43e4c162f465af8e3b7a71e233",
+      "bytes": 1750165,
+      "sha256": "98eb01fd3838308fd72bbceb60a2704df8b90b675308682e7741b39a1ba5eae2",
       "features": 266
     },
     "region-4": {
       "url": "https://raw.githubusercontent.com/lspak/finly-grounds-data/main/geometry/region-4.geojson",
-      "bytes": 1012085,
-      "sha256": "861082c30db5a22afff6c714f5af1d8f1e0e2f5bc059ca6308b1a97aecf601de",
+      "bytes": 1025575,
+      "sha256": "134620611c472249d309325c66e428dbbdbb69d9abd94d6f379d5e8a5c76658d",
       "features": 170
     }
   }
